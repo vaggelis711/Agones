@@ -1,2 +1,1 @@
-# Agones
-Θέλω να δημιουργήσω μια εφαρμογή που θα αντλεί πληροφορίες από το flashcore.gr για τους επερχόμενους αγωνες
+I want to make an application that will draw content from toflashscore.gr and in the upcoming games it will tell me how many of the previous 5 games in their national championship scored more than 3 goals in the pair of teams that are playing
